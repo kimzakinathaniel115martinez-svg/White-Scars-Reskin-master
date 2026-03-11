@@ -1,0 +1,10 @@
+#
+# metadata.yaml for changing armor
+
+name: "Chapter Change White Scars (ROSIGMA)"
+version: 1.0
+author: "bulletdesigner, Ryskeliini, ohartenstein23, Red_Luna, etc"
+description: "Change the chapter from Ultramarines to White Scars; Run this version if you run ROSIGMA, otherwise run the normal (40k) one"
+master: "40k"
+reservedSpace: 2
+id: "White_Scars_ROSIGMA"
